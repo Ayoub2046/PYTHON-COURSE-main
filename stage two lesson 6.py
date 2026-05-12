@@ -1,8 +1,8 @@
 # while loop  while repeats code until condition becomes false.
-# n = 10
-# while n > 0:
+# n = 40
+# while n <= 0:
 #     print(n)
-#     n = n - 3
+#     n = n - 5
 # else:
 #     print("ok")
 
