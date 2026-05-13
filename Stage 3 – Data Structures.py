@@ -21,4 +21,8 @@
 # We can store all in one variable:
 # students = ["Ali", "Ahmed", "Ayuob"]
 
+# Accessing list items
+# Each item has a position (index).
+students = ["Ali", "Ahmed", "Ayuob"]
 
+print(students[1])
