@@ -4,8 +4,12 @@
 # student["age"] = 20
 #
 # print(student)
-student = {}
-student["magac"] = "ayuubow"
-student["sanadka"] = 30
-student["cousre"] = "python crash course"
-print(student)
+teamkeena = {}
+teamkeena["Developer"] = "python developer"
+teamkeena["web"]   = "full_stack_developer"
+teamkeena["Desinger"] = "multimedia"
+teamkeena["togather"] = "wadajir"
+
+for i in teamkeena:
+    print(i)
+print(teamkeena)

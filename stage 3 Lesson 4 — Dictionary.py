@@ -1,6 +1,6 @@
 # A dictionary stores key : value pairs.
 student = {
-    "name": "Ayuob",
+    "name": "ali",
     "age": 25,
     "department": "ICT"
 }
